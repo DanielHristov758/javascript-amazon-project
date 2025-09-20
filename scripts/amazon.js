@@ -5,7 +5,7 @@ const products = [{
         stars: 4.5,
         count: 87
     },
-    price: 1090
+    priceCents: 1090
 },{
      image: 'images/products/imtermediate-composite-basketball.jpg',
     name: 'Intermedieate Size Basketball',
@@ -13,5 +13,5 @@ const products = [{
         stars: 4,
         count: 127
     },
-    price: 2095
+    priceCents: 2095
 }];
