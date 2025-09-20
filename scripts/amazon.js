@@ -15,7 +15,7 @@ const products = [{
     },
     priceCents: 2095
 },{
-     image: 'images/products/imtermediate-composite-basketball.jpg',
+     image: 'images/products/adults-plain-cotton-tshirt-2-pack-teal.jpg',
     name: 'Adults Plain Cotoon T-shirt - 2 pack',
     rating: {
         stars: 4.5,
