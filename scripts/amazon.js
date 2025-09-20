@@ -4,5 +4,6 @@ const products = [{
     rating: {
         stars: 4.5,
         count: 87
-    }
+    },
+    price: 1090
 }];
