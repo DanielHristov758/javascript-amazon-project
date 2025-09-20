@@ -6,4 +6,6 @@ const products = [{
         count: 87
     },
     price: 1090
+},{
+
 }];
