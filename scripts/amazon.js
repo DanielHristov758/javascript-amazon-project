@@ -45,7 +45,7 @@ products.forEach((product) => {
           </div>
 
           <div class="product-price">
-            $10.90
+            $${product.price}
           </div>
 
           <div class="product-quantity-container">
