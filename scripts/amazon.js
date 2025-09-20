@@ -7,5 +7,5 @@ const products = [{
     },
     price: 1090
 },{
-
+    
 }];
