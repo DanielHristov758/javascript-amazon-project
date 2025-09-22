@@ -24,13 +24,13 @@ const products = [{
     priceCents: 799
 }, 
 {
-     image: 'images/products/adults-plain-cotton-tshirt-2-pack-teal.jpg',
+     image: 'images/products/black-2-slot-toaster.jpg',
     name: '2 slot toaster - Black',
     rating: {
-        stars: 4.5,
-        count: 56
+        stars: 5,
+        count: 2197
     },
-    priceCents: 799
+    priceCents: 1699
 }
 ];
 
