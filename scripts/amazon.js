@@ -30,7 +30,7 @@ const products = [{
         stars: 5,
         count: 2197
     },
-    priceCents: 1699
+    priceCents: 1899
 }
 ];
 
