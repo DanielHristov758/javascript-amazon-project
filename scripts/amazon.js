@@ -23,7 +23,15 @@ const products = [{
     },
     priceCents: 799
 }, 
-
+{
+     image: 'images/products/adults-plain-cotton-tshirt-2-pack-teal.jpg',
+    name: 'Adults Plain Cotoon T-shirt - 2 pack',
+    rating: {
+        stars: 4.5,
+        count: 56
+    },
+    priceCents: 799
+}
 ];
 
 let productsHTML = '';
