@@ -24,6 +24,8 @@ const products = [{
     priceCents: 799
 }];
 
+let productsHTML
+
 products.forEach((product) => {
     const html = `
      <div class="product-container">
