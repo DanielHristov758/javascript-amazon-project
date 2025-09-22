@@ -57,4 +57,4 @@ console.log(productsHTML);
 
 document.querySelector('.js-products-grid').innerHTML = productsHTML;
 
-document.querySelectorAll('.')
+document.querySelectorAll('.js-add-to-cart')
