@@ -71,13 +71,15 @@ document.querySelectorAll(".js-add-to-cart").forEach((button) => {
     });
 
     if (matchingItem) {
-      matchingItem.quantity += 1
-    };
-    
-    cart.push({
+      matchingItem.quantity += 1;
+    } else {
+          cart.push({
       productName: productName,
       quantity: 1
     });
+    }
+    
+
     console.log(cart);
   });
 });
