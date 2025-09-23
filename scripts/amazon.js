@@ -65,7 +65,9 @@ document.querySelectorAll(".js-add-to-cart").forEach((button) => {
     let matchingItem;
     
     cart.forEach((item) => {
-      if (productName === item.productName) {}
+      if (productName === item.productName) {
+        matchingItem = item
+      }
     });
     
     cart.push({
