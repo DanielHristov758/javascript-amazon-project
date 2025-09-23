@@ -62,7 +62,9 @@ document.querySelectorAll(".js-add-to-cart").forEach((button) => {
   button.addEventListener("click", () => {
     const productName = button.dataset.productName;
     
-    if () {} 
+    cart.forEach((item) => {
+      if (productName === item.productName)
+    });
     
     cart.push({
       productName: productName,
