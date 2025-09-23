@@ -63,7 +63,7 @@ document.querySelectorAll(".js-add-to-cart").forEach((button) => {
     const productName = button.dataset.productName;
     
     cart.forEach((item) => {
-      if (productName === item.productName)
+      if (productName === item.productName) {}
     });
     
     cart.push({
